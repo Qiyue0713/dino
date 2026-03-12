@@ -1,0 +1,18 @@
+{
+  "train": [
+    {
+      "root": "/data/serverF/Codes/Aerial-data/train/",
+      "anno": "/data/serverF/Codes/Aerial-data/annotation/vg_train_odvg.jsonl",
+      "label_map": null,
+      "dataset_mode": "odvg"
+    }
+  ],
+  "val": [
+    {
+      "root": "/data/serverF/Codes/Aerial-data/val/",
+      "anno": "/data/serverF/Codes/Aerial-data/annotation/vg_val_odvg.jsonl",
+      "label_map": null,
+      "dataset_mode": "odvg"
+    }
+  ]
+}
